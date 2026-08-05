@@ -2,7 +2,7 @@ package com.arrays;
 
 import java.util.Scanner;
 
-public class SmaxElement {
+public class SecondMaxElement {
     public static int secondLargest(int arr[]) {
         int max = Integer.MIN_VALUE;
         int secondMax = Integer.MIN_VALUE;
